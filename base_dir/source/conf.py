@@ -25,7 +25,8 @@ html_title = "Juan Zamora O."
 # The full version, including alpha/beta/rc tags
 release = '1.0'
 
-
+# Good tutorial
+# https://blog.shichao.io/2013/03/19/create_a_personal_website_with_sphinx.html
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
