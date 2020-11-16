@@ -7,6 +7,12 @@ verify_ssl = true
 
 [packages]
 sphinx = "*"
+crate-docs-theme = "*"
+f5-sphinx-theme = "*"
+insegel = "*"
+renku-sphinx-theme = "*"
+sphinx-redactor-theme = "*"
+sunpy-sphinx-theme = "*"
 
 [requires]
 python_version = "3.8"

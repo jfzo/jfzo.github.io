@@ -3,9 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome
+WhoAmI
 *******
-Welcome to my site!
+I'm currently working as an associate professor at the Institute of statistics
+of Pontificia Universidad Católica de Valparaíso.
 
 About me
 ========
