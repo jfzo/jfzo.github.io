@@ -13,6 +13,14 @@
 
 /* -- page layout ----------------------------------------------------------- */
 
+/*img.align-right {float: right;}*/
+img.alignright {
+  border-radius: 8px;
+  /*width: 200px;*/
+  float: right;
+}
+
+
 body {
     font-family: 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
                  'Verdana', sans-serif;
