@@ -13,6 +13,8 @@ insegel = "*"
 renku-sphinx-theme = "*"
 sphinx-redactor-theme = "*"
 sunpy-sphinx-theme = "*"
+sphinx-readable-theme = "*"
+"sphinxjp.themes.sphinxjp" = "*"
 
 [requires]
 python_version = "3.8"

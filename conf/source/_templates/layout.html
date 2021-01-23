@@ -1,0 +1,13 @@
+{% extends "!layout.html" %}
+{%- set rellinks = [] %}
+{% block rootrellink %}</pre>
+<ul>
+    <li><a href="index.html">Home</a> |</li>
+    <li><a href="research.html#publications">Publications</a> |</li>
+    <li><a href="research.html#projects">Projects</a> |</li>
+    <li>{% endblock %}
+{% block relbar2 %}
+{% endblock %}
+The template above creates a header navigation bar of different entries of your sites.
+
+{%- set rellinks = [] %} disables related links (i.e. prev, next and index).
