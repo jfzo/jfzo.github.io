@@ -49,7 +49,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 
 html_show_sourcelink = False
-
+html_title = 'Juan Zamora O.'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.

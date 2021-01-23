@@ -3,9 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-I received the Engineer's degree in Informatics, Master of Science degree and PhD degree from the `Departamento de Informática <http://www.inf.utfsm.cl>`_ at the `Universidad Técnica Federico Santa María <http://www.utfsm.cl>`_ in Valparaíso-Chile.
+
+About me
+***************
 
 Since 2018, I am an associate professor at `Instituto de Estadística <http://www.estadistica.cl>`_  from the `Pontificia Universidad Católica de Valparaíso <http://www.pucv.cl>`_, Chile.
+
+
+I received the Engineer's degree in Informatics, Master of Science degree and PhD degree from the `Departamento de Informática <http://www.inf.utfsm.cl>`_ at the `Universidad Técnica Federico Santa María <http://www.utfsm.cl>`_ in Valparaíso-Chile.
+
 
 My research interests and works are aimed at Machine Learning techniques and Unstructured data mining problems. More specifically my work is divided into X groups:
 
