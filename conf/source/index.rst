@@ -18,7 +18,7 @@ Since 2018, I am an associate professor at the `Instituto de Estadística <http:
 I received the Engineer's degree in Informatics, Master of Science degree and PhD degree from the `Departamento de Informática <http://www.inf.utfsm.cl>`_ at the `Universidad Técnica Federico Santa María <http://www.utfsm.cl>`_ in Valparaíso-Chile.
 
 
-My research interests and works are aimed at Machine Learning techniques and Unstructured data mining problems. More specifically my work is divided into X groups:
+My research interests and works are aimed at Machine Learning techniques and Unstructured data mining problems. More specifically my work is divided into three groups:
 
 #. Clustering methods: Single pass data clustering, Distributed and Multi-view clustering.
 #. Text processing: Natural Language Processing methods and text classification.
