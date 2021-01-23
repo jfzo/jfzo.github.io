@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'jfzo webpage'
-copyright = '2021, jz'
-author = 'jz'
+project = 'Juan Zamora'
+copyright = '2021, JZ'
+author = 'Juan Zamora O.'
 
 
 # -- General configuration ---------------------------------------------------
