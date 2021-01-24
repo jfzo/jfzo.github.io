@@ -40,11 +40,11 @@ Projects
 *  2020-2024 «Textos Escolares de Educación Básica: Una Propuesta con Validez Psicolingüística para dar cuenta de su Lecturabilidad». ANID FONDECYT Regular 1201440. Co-investigator.
 *  2020 «Heterogeneous Algorithms for Multisource Data Clustering». DI Emergente, PUCV. Principal Investigator.
 *  2020 «Las comunicaciones inalámbricas del futuro e IoT». DI Investigación Innovadora Interdisciplinaria, PUCV. Co-Investigator.
-*  2018-2020. Investigador Principal: Clustering Distributed and High Dimensional Document Collections. FONDECYT POSTDOCTORADO 3180689, CHILE. Principal Investigator.
-*  2018-2020 Investigador Colaborador: Extracting Valuable Information from Complex-Valued Noisy SAR/PolSAR Images with Deep Learning – INSIDEr”. CONICYT REDI170059. Associate researcher.
-*  2017 Investigador postdoctoral: Parallel clustering techniques for distributed document collections. Postdoctorado PUCV, CHILE. Principal Investigator.
-*  2011-2014 Estudiante doctoral: Observatorios escalables de la web en tiempo real. FONDEF DO9I1185. Doctoral student.
-*  2012-2014 Estudiante doctoral: Effective data mining models on online social networks. FONDECYT 11121435. Doctoral student.
+*  2018-2020. *Clustering Distributed and High Dimensional Document Collections*. FONDECYT POSTDOC 3180689, CHILE. Principal Investigator.
+*  2018-2020 *Extracting Valuable Information from Complex-Valued Noisy SAR/PolSAR Images with Deep Learning – INSIDEr*. CONICYT REDI170059. Associate researcher.
+*  2017 *Parallel clustering techniques for distributed document collections*. Postdoc PUCV, CHILE. Principal Investigator.
+*  2011-2014 *Observatorios escalables de la web en tiempo real*. FONDEF DO9I1185. Doctoral student.
+*  2012-2014 *Effective data mining models on online social networks*. FONDECYT 11121435. Doctoral student.
 
 .. |ss| raw:: html
 
