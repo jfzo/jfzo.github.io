@@ -20,9 +20,9 @@ I received the Engineer's degree in Informatics, Master of Science degree and Ph
 
 My research interests and works are aimed at Machine Learning techniques and Unstructured data mining problems. More specifically my work is divided into three groups:
 
-#. Clustering methods: Single pass data clustering, Distributed and Multi-view clustering.
-#. Text processing: Natural Language Processing methods and text classification.
-#. Deep models for text data
+* *Clustering methods*: Single pass data clustering, Distributed and Multi-view clustering.
+* *Text processing*: Natural Language Processing methods and text classification.
+* *Deep models* for text data
 
 .. toctree::
    :maxdepth: 2
