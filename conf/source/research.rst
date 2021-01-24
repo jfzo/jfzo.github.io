@@ -14,9 +14,13 @@ Publications
 
 * **Juan Zamora**, Héctor Allende-Cid and Marcelo Mendoza. "A Distributed Shared Nearest Neighbors Clustering Algorithm." . In Iberoamerican Congress on Pattern Recognition (pp. 710–718).2017.
 
+* **Juan Zamora**. "Recent Advances in High-Dimensional Clustering for Text Data". In Claudio Moraga: A Passion for Multi-Valued Logic and Soft Computing (pp 323–337). 2017. Springer.
+
 * **Juan Zamora**, Marcelo Mendoza and Héctor Allende. "Hashing-based clustering in high dimensional data".Expert Systems with Applications (2016).
 
 * **Juan Zamora**, Marcelo Mendoza, and Héctor Allende. "Query Intent Detection Based on Query Log Mining.".J. Web Eng. 13, no.1&2 (2014): 24–52.
+
+* **Juan Zamora**, Miguel Guevara, Gabriela Dominguez, Héctor Allende, Alejandro Veloz and Rodrigo Salas. "On the Understanding of the Stream Volume Behavior on Twitter". In Pattern Recognition, Applications and Methods (pp 171-180). 2013. Springer.
 
 * Gabriela Dominguez, Miguel Guevara, Marcelo Mendoza, and **Juan Zamora**. "A wavelet-based method for time series forecasting." . In 2012 31st International Conference of the Chilean Computer Science Society (pp. 91–94).2012.
 
