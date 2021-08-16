@@ -6,7 +6,7 @@ You can also explore a |ss| probably |se| more updated version of my publication
 Publications
 ************
 
-* Santana, A., Ibañez, R., Moncada, F. and **Zamora, J.**. "Causal connective expressions in textbooks written in Spanish: A comparative study of four primary school subjects". In Journal of Pragmatics, vol. 182, (pp. 104-117). 2021.
+* Andrea Santana, Romualdo Ibañez, Fernando Moncada and **Juan Zamora**. "Causal connective expressions in textbooks written in Spanish: A comparative study of four primary school subjects". In Journal of Pragmatics, vol. 182, (pp. 104-117). 2021.
 
 * **Juan Zamora**, and Jérémie Sublime. "A New Information Theory Based Clustering Fusion Method for Multi-view Representations of Text Documents." . In International Conference on Human-Computer Interaction (pp. 156–167).2020.
 
@@ -38,8 +38,8 @@ Publications
 Projects
 *********
 
-* 2020-2023 «Incremental and emotion-aware recommendations of news streams under non-stationary user preferences». ANID Fondecyt (Initiation in research) 11200826. Principal Investigator.
-*  2020-2024 «Textos Escolares de Educación Básica: Una Propuesta con Validez Psicolingüística para dar cuenta de su Lecturabilidad». ANID FONDECYT Regular 1201440. Co-investigator.
+* 2020-2023 *Incremental and emotion-aware recommendations of news streams under non-stationary user preferences*. ANID Fondecyt (Initiation in research) 11200826. Principal Investigator.
+*  2020-2024 *Textos Escolares de Educación Básica: Una Propuesta con Validez Psicolingüística para dar cuenta de su Lecturabilidad*. ANID FONDECYT Regular 1201440. Co-investigator.
 *  2018-2020. *Clustering Distributed and High Dimensional Document Collections*. FONDECYT POSTDOC 3180689, CHILE. Principal Investigator.
 *  2018-2020 *Extracting Valuable Information from Complex-Valued Noisy SAR/PolSAR Images with Deep Learning – INSIDEr*. CONICYT REDI170059. Associate researcher.
 *  2011-2014 *Observatorios escalables de la web en tiempo real*. FONDEF DO9I1185. Doctoral student.
@@ -48,8 +48,7 @@ Projects
 
 **Internal Projects**
 
-*  2021 *Al interior del caracol: el uso de la realidad aumentada como una
-ventana en la biodiversidad*. DI Investigación Innovadora Interdisciplinaria, PUCV. Co-Investigator.
+*  2021 *Al interior del caracol: el uso de la realidad aumentada como una ventana en la biodiversidad*. DI Investigación Innovadora Interdisciplinaria, PUCV. Co-Investigator.
 *  2020 *Heterogeneous Algorithms for Multisource Data Clustering*. DI Emergente, PUCV. Principal Investigator.
 *  2020 *Las comunicaciones inalámbricas del futuro e IoT*. DI Investigación Innovadora Interdisciplinaria, PUCV. Co-Investigator.
 *  2017 *Parallel clustering techniques for distributed document collections*. Postdoc PUCV, CHILE. Principal Investigator.
