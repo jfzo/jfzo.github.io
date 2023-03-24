@@ -6,6 +6,12 @@ You can also explore a |ss| probably |se| more updated version of my publication
 Publications
 ************
 
+* **Juan Zamora** and Jérémie Sublime. 2023. “An Ensemble and Multi-View Clustering Method Based on Kolmogorov Complexity” Entropy 25, no. 2: 371. https://doi.org/10.3390/e25020371
+
+* Ibáñez Orellana, R., **Zamora, J.**, Cisnero Correa, M., & Aguirre Rozas, S. (2022). Análisis automático de la complejidad sintáctica de textos escolares. Círculo de Lingüística Aplicada a la Comunicación, 91, 127-142. https://doi.org/10.5209/clac.79977
+
+* Merino, Cristian, Catalina Iturbe-Sarunic, Brant G. Miller, Christine E. Parent, John G. Phillips, Sonia Pino, José Miguel Garrido, Andoni Arenas, **Juan Zamora**. ‘Snailed It! Inside the Shell: Using Augmented Reality as a Window Into Biodiversity’. Frontiers in Education 7 (2022). https://doi.org/10.3389/feduc.2022.933436.
+
 * Andrea Santana, Romualdo Ibañez, Fernando Moncada and **Juan Zamora**. "Causal connective expressions in textbooks written in Spanish: A comparative study of four primary school subjects". In Journal of Pragmatics, vol. 182, (pp. 104-117). 2021.
 
 * **Juan Zamora**, and Jérémie Sublime. "A New Information Theory Based Clustering Fusion Method for Multi-view Representations of Text Documents." . In International Conference on Human-Computer Interaction (pp. 156–167).2020.
