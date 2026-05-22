@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Juan Zamora'
-copyright = '2021, Juan Zamora O'
+copyright = '2026, Juan Zamora O'
 author = 'Juan Zamora O.'
 
 

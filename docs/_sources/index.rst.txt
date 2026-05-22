@@ -8,7 +8,10 @@ About me
 ***************
 
 
-Since 2018, I am an associate professor at the `Instituto de Estadística <http://www.estadistica.cl>`_  of the `Pontificia Universidad Católica de Valparaíso <http://www.pucv.cl>`_, Chile.
+.. TODO: Actualizar año de inicio del cargo si cambió (actualmente "Since 2018")
+.. TODO: Actualizar cargo/institución si hubo cambios
+
+I am researcher and full time professor at the `Instituto de Estadística <http://www.estadistica.cl>`_  of the `Pontificia Universidad Católica de Valparaíso <http://www.pucv.cl>`_, Chile.
 
 
 .. image:: ./jz2.png
@@ -22,7 +25,7 @@ My research interests and works are aimed at Machine Learning techniques and Uns
 
 * *Clustering methods*: Single pass data clustering, Distributed and Multi-view clustering.
 * *Text processing*: Natural Language Processing methods and text classification.
-* *Deep models* for text data
+* *Deep models* for text data. Lately, I've been focusing on the use of deep learning models for text data, specially in the contexto of healthcare applications.
 
 .. toctree::
    :maxdepth: 2

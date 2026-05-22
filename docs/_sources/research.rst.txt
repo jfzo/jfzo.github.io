@@ -6,6 +6,17 @@ You can also explore a |ss| probably |se| more updated version of my publication
 Publications
 ************
 
+.. TODO: Agregar publicaciones nuevas aquí (más reciente primero):
+.. Formato: * **Juan Zamora** et al. "Título". Revista/Conferencia, vol., págs. Año. https://doi.org/...
+
+* Bady Gana, Héctor Allende-Cid, Stefan Rüping, Mauricio Becerra-Rozas and Juan Zamora. 2025. "A systematic review of long document summarization methods: Evaluation metrics and approaches". Neurocomputing, 131287.
+
+* Bady Gana Figueroa, Héctor Allende-Cid, Parma Nand, **Juan Zamora** and Andrés Ramos. 2024. "Patient Mortality Prediction Using Clinical Notes". In International Conference on Neural Information Processing (pp. 62-76). Singapore: Springer Nature Singapore.
+
+* Sergio Campos, **Juan Zamora** and Héctor Allende. 2024. "Block-wise imputation EM algorithm in multi-source scenario: ADNI case". Pattern Analysis and Applications, 27(2), 44.
+
+* Andrés Ramos-Magna, **Juan Zamora** and Héctor Allende-Cid. 2024. "Senti-sequence: learning to represent texts for sentiment polarity classification". Applied Sciences, 14(3), 1033.
+
 * **Juan Zamora** and Jérémie Sublime. 2023. “An Ensemble and Multi-View Clustering Method Based on Kolmogorov Complexity” Entropy 25, no. 2: 371. https://doi.org/10.3390/e25020371
 
 * Ibáñez Orellana, R., **Zamora, J.**, Cisnero Correa, M., & Aguirre Rozas, S. (2022). Análisis automático de la complejidad sintáctica de textos escolares. Círculo de Lingüística Aplicada a la Comunicación, 91, 127-142. https://doi.org/10.5209/clac.79977
@@ -44,7 +55,13 @@ Publications
 Projects
 *********
 
-* 2020-2023 *Incremental and emotion-aware recommendations of news streams under non-stationary user preferences*. ANID Fondecyt (Initiation in research) 11200826. Principal Investigator.
+.. TODO: Agregar proyectos activos o nuevos aquí (más reciente primero)
+.. TODO: Actualizar estado de proyectos terminados (2020-2023, 2020-2024, etc.)
+.. Formato: * AÑO-AÑO *Título del proyecto*. Fuente de financiamiento CÓDIGO. Rol.
+
+*  2025-2028 *Interacciones entre estilo de vida y rendimiento académico en estudiantes universitarios": Un estudio longitudinal multidimensional con integración de datos neuroconductuales*. ANID FONDECYT Regular 1250010. Co-investigator.
+*  2024-2025 *EstApp: Una aplicación inteligente para la enseñanza y aprendizaje de la estadística en educación superior*, ANID IDeAI+D. Co-investigator.
+*  2020-2023 *Incremental and emotion-aware recommendations of news streams under non-stationary user preferences*. ANID Fondecyt (Initiation in research) 11200826. Principal Investigator.
 *  2020-2024 *Textos Escolares de Educación Básica: Una Propuesta con Validez Psicolingüística para dar cuenta de su Lecturabilidad*. ANID FONDECYT Regular 1201440. Co-investigator.
 *  2018-2020. *Clustering Distributed and High Dimensional Document Collections*. FONDECYT POSTDOC 3180689, CHILE. Principal Investigator.
 *  2018-2020 *Extracting Valuable Information from Complex-Valued Noisy SAR/PolSAR Images with Deep Learning – INSIDEr*. CONICYT REDI170059. Associate researcher.

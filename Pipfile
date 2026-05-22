@@ -6,15 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-sphinx = "*"
-crate-docs-theme = "*"
-f5-sphinx-theme = "*"
-insegel = "*"
-renku-sphinx-theme = "*"
-sphinx-redactor-theme = "*"
-sunpy-sphinx-theme = "*"
-sphinx-readable-theme = "*"
-"sphinxjp.themes.sphinxjp" = "*"
+sphinx = ">=8.0"
 
 [requires]
-python_version = "3.8"
+python_version = "3.13"
